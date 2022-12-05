@@ -31,6 +31,9 @@ For this project, preserved 90% of the explained variance in dimensionality redu
 Cluster Analysis with k-Means
 Created an elbow plot to identify the best number of clusters. Used a for-loop to determine the inertia for each k between 1 through 10. Determine, if possible, where the elbow of the plot is, and at which value of k it appears.
 
+![Elbow Curve](https://user-images.githubusercontent.com/108476566/205700286-5b1ea973-0728-46da-afb9-700a0042b18d.png)
+
+
 Results
 
 Cryptocurrencies can be cluster into distinct groups.
