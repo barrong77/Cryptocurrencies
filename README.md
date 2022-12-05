@@ -33,6 +33,12 @@ Created an elbow plot to identify the best number of clusters. Used a for-loop t
 
 ![Elbow Curve](https://user-images.githubusercontent.com/108476566/205700286-5b1ea973-0728-46da-afb9-700a0042b18d.png)
 
+This 3-D scatter plot was obtained using the PCA algorithm to reduce the crytocurrencies dimensions to three principal components.
+
+![3D](https://user-images.githubusercontent.com/108476566/205700786-930e7730-0275-4c12-ae0b-51a9d8a47ddb.png)
+
+
+
 
 Results
 
